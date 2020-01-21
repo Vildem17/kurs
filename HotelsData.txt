@@ -1,0 +1,89 @@
+[
+  {
+    "Name": "Шератон",
+    "Adress": "ул.Луговая 56",
+    "Phone": "+7984-567-89-76",
+    "Floors": 10,
+    "Numbers": [
+      {
+        "Type": "eco",
+        "Free": 40,
+        "Places": 1,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 1000
+      },
+      {
+        "Type": "standart",
+        "Free": 30,
+        "Places": 2,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 2000
+      },
+      {
+        "Type": "lux",
+        "Free": 20,
+        "Places": 5,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 5000
+      }
+    ]
+  },
+  {
+    "Name": "Азия",
+    "Adress": "ул.Придорожная 78",
+    "Phone": "+7900-658-85-58",
+    "Floors": 10,
+    "Numbers": [
+      {
+        "Type": "eco",
+        "Free": 40,
+        "Places": 1,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 900
+      },
+      {
+        "Type": "standart",
+        "Free": 30,
+        "Places": 2,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 1700
+      },
+      {
+        "Type": "lux",
+        "Free": 20,
+        "Places": 5,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 4600
+      }
+    ]
+  },
+  {
+    "Name": "Мегаполис",
+    "Adress": "ул.Стабильная 45",
+    "Phone": "+7888-945-65-45",
+    "Floors": 6,
+    "Numbers": [
+      {
+        "Type": "eco",
+        "Free": 20,
+        "Places": 1,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 800
+      },
+      {
+        "Type": "standart",
+        "Free": 20,
+        "Places": 2,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 1600
+      },
+      {
+        "Type": "lux",
+        "Free": 10,
+        "Places": 5,
+        "Condition": "Условия : не портить имущество.",
+        "Price": 400
+      }
+    ]
+  }
+]
